@@ -3,11 +3,11 @@ package easy;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class RemoveVowelsFromAStringTest {
-    private RemoveVowelsFromAString solution;
+public class RemoveVowelsFromAStringProblemTest {
+    private RemoveVowelsFromAStringProblem solution;
 
-    public RemoveVowelsFromAStringTest() {
-         solution = new RemoveVowelsFromAString();
+    public RemoveVowelsFromAStringProblemTest() {
+         solution = new RemoveVowelsFromAStringProblem();
     }
 
     @Test

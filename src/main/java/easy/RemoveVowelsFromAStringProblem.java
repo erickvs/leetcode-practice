@@ -3,7 +3,7 @@ package easy;
 import java.util.HashSet;
 import java.util.Set;
 
-public class RemoveVowelsFromAString {
+public class RemoveVowelsFromAStringProblem {
     private static final Set<Character> vowelsToIgnoreSet;
     static {
         vowelsToIgnoreSet = new HashSet<>();
